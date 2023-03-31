@@ -1,6 +1,6 @@
 Name:		texlive-gtrlib-largetrees
 Version:	49062
-Release:	1
+Release:	2
 Summary:	Library for genealogytree aiming at large trees
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gtrlib-largetrees

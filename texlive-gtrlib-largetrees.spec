@@ -3,7 +3,7 @@ Version:	49062
 Release:	2
 Summary:	Library for genealogytree aiming at large trees
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gtrlib-largetrees
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gtrlib-largetrees
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gtrlib-largetrees.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gtrlib-largetrees.doc.r%{version}.tar.xz
